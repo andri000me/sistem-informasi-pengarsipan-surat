@@ -1,0 +1,12 @@
+1. Salin folder ke folder server, contoh: pada XAMPP server salin di htdocs.
+2. Ekstrak zip
+3. Import database.sql yang ada di project ini
+4. Konfigurasi database melalui folder 'application/config/database.php', disana anda bisa mengatur username, password, dan database
+5. Sesuaikan nama folder anda dengan base_url yang terdapat pada 'application/config/config.php' pd baris ke 27. contoh: $config['base_url']='http://localhost/namafolder/';
+6. Buka proyek di browser
+7. Login dengan akun superadmin/admin
+8. Info login
+  Superadmin = { username: superadmin, password: superadmin }
+  Admin      = { username: admin, password: admin }
+  
+Thanks!
