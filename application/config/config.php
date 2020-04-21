@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://localhost/e-arsip_sb/';
-$config['base_url'] = 'http://localhost/e-arsip-ci/';
+$config['base_url'] = 'http://sisarsip-smkdh.now.sh';
 
 /*
 |--------------------------------------------------------------------------
